@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="50">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:gravity="center"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/cellCountry">
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.24"
+            android:gravity="right"
+            android:paddingRight="12dp">
+
+            <ImageView
+                android:layout_height="wrap_content"
+                android:id="@+id/imgCountry"
+                android:src="@drawable/fr"
+                android:layout_weight="1"
+                android:layout_width="40dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center|left">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Great Britian"
+                android:id="@+id/txtCountryName"
+                android:textSize="20sp"
+                android:fontFamily="sans_serif"
+                android:textColor="@color/colorWhite"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/starFav"
+                android:textSize="22sp"
+                android:textColor="@color/colorGreenIcon"
+                android:layout_alignParentRight="true"
+                android:paddingRight="15dp"/>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

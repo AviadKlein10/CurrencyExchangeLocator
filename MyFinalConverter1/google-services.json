@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "18055471697",
+    "project_id": "myfinalconverter"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18055471697:android:f36173e948059ccb",
+        "android_client_info": {
+          "package_name": "gcm.play.android.samples.com.gcmquickstart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKBGrLAjzf94WJnL2I3Le3mqgjj9g2y4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18055471697:android:5b6d680142d8ef7e",
+        "android_client_info": {
+          "package_name": "shaked.aviad.aviv.myfinalconverter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKBGrLAjzf94WJnL2I3Le3mqgjj9g2y4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-82015354-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

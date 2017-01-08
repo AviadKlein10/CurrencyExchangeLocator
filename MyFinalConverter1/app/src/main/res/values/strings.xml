@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Exchange Locator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_hint">Search</string>
+    <string name="fa_star">&#xf006;</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4666791944006485/8509567858</string>
+</resources>

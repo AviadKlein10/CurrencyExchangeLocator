@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004979</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTanspert">#b94390ab</color>
+    <color name="colorGreenIcon">#80D8FF</color>
+    <color name="colorGreenIconC">#68EFAD</color>
+    <color name="colorGreenIconA">#b2dfdb</color>
+    <color name="colorGreenIconB">#84FFFF</color>
+    <color name="colorGrey">#acbcb1</color>
+
+    <color name="colorPrimaryDark">#1a237e</color>
+    <color name="colorPrimaryDarkOrig">#3949ab</color>
+    <color name="colorDarkBlue">#303F9F</color>
+    <color name="colorMain">#1A237E</color>
+
+    <color name="colorDarkPurple">#691A99</color>
+    <color name="colorPrimaryPurple">#9B26AF</color>
+    <color name="colorMainPurple">#7A1EA1</color>
+
+
+    <color name="colorDarkGreen">#024e41</color>
+    <color name="colorPrimaryDarkGreen">#029789</color>
+    <color name="colorDarkBlueB">#1a237e</color>
+    <color name="colorPrimaryDarkB">#4571f4</color>
+    <color name="colorGreenIcon1">#b9f6ca</color>
+    <color name="colorDarkBlue1">#1a237e</color>
+    <color name="colorPrimaryDark1">#4571f4</color>
+
+
+
+    <color name="colorWhite">#F9FCFF</color>
+    <color name="colorOrange">#f9a825</color>
+    <color name="colorLightBlue">#91c0d8fc</color>
+    <color name="colorBlue">#7b6b9feb</color>
+    <color name="colorGoodBlue">#e064b5f6</color>
+    <color name="colorMiddleBlue">#814882d8</color>
+    <color name="transparent">#00111111</color>
+</resources>
